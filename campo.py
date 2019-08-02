@@ -1,7 +1,5 @@
 import numpy as np
 import matplotlib.pyplot as plt
-import unittest
-import PIL
 
 class Drapeau():
     def __init__(self):
